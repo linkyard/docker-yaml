@@ -1,4 +1,4 @@
-FROM alpine:3.6
+FROM alpine:3.8
 LABEL maintainer="mario.siegenthaler@linkyard.ch"
 
 RUN apk --no-cache add bash
