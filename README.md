@@ -15,4 +15,4 @@ Docker image the contains utils for YAML and JSON processing.
 
 ## Usage
 
-`docker run linkyard/yaml`
+`docker run docker.pkg.github.com/linkyard/docker-yaml/yaml:latest`
