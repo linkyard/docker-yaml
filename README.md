@@ -7,8 +7,11 @@ Docker image the contains utils for YAML and JSON processing.
 ## Contains
 
 - jq
+- yq
 - spruce
 - gpg
+- sops
+- age
 - curl
 - wget
 - bash
