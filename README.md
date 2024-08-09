@@ -18,4 +18,4 @@ Docker image the contains utils for YAML and JSON processing.
 
 ## Usage
 
-`docker run ghcr.io/linkyard/yaml:latest`
+`docker run ghcr.io/linkyard/docker-yaml:latest`
